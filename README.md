@@ -11,8 +11,8 @@
 
 This repository contains a simple Python project for statistical analysis using pandas. The project includes two main files:
 
-1. **main.py**: This script initializes a DataFrame with sample data and uses the `Statistics` class to print various statistics.
-2. **statistics.py**: This module defines the `Statistics` class which provides methods to calculate and print mean, median, quantiles, and standard deviation of the data.
+1. [main.py](https://github.com/NewalexOA/AZ02-Learning_Pandas_Matplotlib/blob/main/main.py): This script initializes a DataFrame with sample data and uses the `Statistics` class to print various statistics.
+2. [statistics.py](https://github.com/NewalexOA/AZ02-Learning_Pandas_Matplotlib/blob/main/statistics.py): This module defines the `Statistics` class which provides methods to calculate and print mean, median, quantiles, and standard deviation of the data.
 
 ### How to Use
 
@@ -29,8 +29,8 @@ This repository contains a simple Python project for statistical analysis using 
 
 Этот репозиторий содержит простой проект на Python для статистического анализа с использованием pandas. Проект включает два основных файла:
 
-1. **main.py**: Этот скрипт инициализирует DataFrame с тестовыми данными и использует класс `Statistics` для вывода различных статистических данных.
-2. **statistics.py**: Этот модуль определяет класс `Statistics`, который предоставляет методы для расчета и вывода средних значений, медиан, квартилей и стандартного отклонения данных.
+1. [main.py](https://github.com/NewalexOA/AZ02-Learning_Pandas_Matplotlib/blob/main/main.py): Этот скрипт инициализирует DataFrame с тестовыми данными и использует класс `Statistics` для вывода различных статистических данных.
+2. [statistics.py](https://github.com/NewalexOA/AZ02-Learning_Pandas_Matplotlib/blob/main/statistics.py): Этот модуль определяет класс `Statistics`, который предоставляет методы для расчета и вывода средних значений, медиан, квартилей и стандартного отклонения данных.
 
 ### Как использовать
 
